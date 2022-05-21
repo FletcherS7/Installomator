@@ -11,4 +11,5 @@ microsoftskypeforbusiness)
     fi
     updateTool="/Library/Application Support/Microsoft/MAU2.0/Microsoft AutoUpdate.app/Contents/MacOS/msupdate"
     updateToolArguments=( --install --apps MSFB16 )
+    appName="Skype for Business.app"
     ;;
